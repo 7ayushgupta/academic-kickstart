@@ -1,42 +1,36 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Ayush Gupta
 
 # Username (this should match the folder name)
 authors:
-- admin
+- ayush
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Junior Undergraduate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Indian Institute of Technology, Kanpur
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include robotics, specifically computer vision and autonomous systems.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Autonomous Systems
+- Computer Visions
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
+  - course: B.Tech in Mechanical Engineering
+    institution: Indian Institute of Technology, Kanpur
+    year: 2021 (expected)
+  
+  
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -61,7 +55,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "7ayushgupta@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -70,4 +64,4 @@ user_groups:
 - Visitors
 ---
 
-I am a Junior Undergraduate at the Indian Institute of Technology, Kanpur   
+I am a Junior Undergraduate at the Indian Institute of Technology, Kanpur in the Dept. of Mechanical Engineering. 
