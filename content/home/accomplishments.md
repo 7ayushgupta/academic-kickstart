@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Professional Experience"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,29 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "J.P. Morgan & Chase"
+  organization_url = "https://www.jpmorganchase.com/"
+  title = "Quantitative Researcher"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  date_start = "2020-01-04"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
+  organization = "Upwork"
+  organization_url = "https://www.coursera.org"
+  title = "Robotics Freelancer"
+  url = "https://www.upwork.com/freelancers/~01c4dced92bce40cdd"
+  date_start = "2020-01-04"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "TalentEdge"
+  organization_url = "talentedge.com/"
+  title = "Data Scientist"
   url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
   date_start = "2018-03-01"
   date_end = ""
   description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
-
 +++

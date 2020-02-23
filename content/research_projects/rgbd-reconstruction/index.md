@@ -2,11 +2,11 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Realtime Onboard Dense RGB-D Mapping on UAVs"
-summary: "Dense RGB-D map of environments have applications in aerial drone navigation, robotic manipulation, reconnaissance operations and semantic mapping. This mapping process is quite computationally expensive, with the main bottleneck being the generation of point clouds from the visual inputs. We have made use of both Monocular Cameras and RGB-D cameras for evaluating the feasibility and accuracy of the systems, while noting the processing speed of the entire system, accounting for the less computational power present on an aerial drone due to its scarce size and energy resources."
+summary: "Implemented and evaluated the realtime RGB-D mapping of unstructured environments, using open-source packages"
 authors: [Ayush Gupta]
 tags: [research]
 categories: [UAV, Computer Vision]
-date: 2019-12-02T18:51:50+05:30
+date: 2019-05-02T18:51:50+05:30
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -39,3 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Dense RGB-D map of environments have applications in aerial drone navigation, robotic manipulation, reconnaissance operations and semantic mapping. This mapping process is quite computationally expensive, with the main bottleneck being the generation of point clouds from the visual inputs. We have made use of both Monocular Cameras and RGB-D cameras for evaluating the feasibility and accuracy of the systems, while noting the processing speed of the entire system, accounting for the less computational power present on an aerial drone due to its scarce size and energy resources.
