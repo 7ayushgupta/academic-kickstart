@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2018-05-01"
   date_end = ""
   description = """
-  Spearh
+  Maintaining entire stack of an Autonomous Vehicle, eployed on Git, implemented using ROS, OpenCV and simulation integrated using Gazebo, while leading a group of 10 members
   """
 
 [[experience]]
@@ -35,7 +35,8 @@ date_format = "Jan 2006"
   location = "IIT Kanpur, India"
   date_start = "2019-08-01"
   date_end = ""
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Currently working on IIGP-funded project on Orbital Debris Mitigation. 
+  Using reinforcement learning for robust forward transition of tailsitter biplanes in air."""
 
 [[experience]]
   title = "Sofware Developer Intern"
@@ -45,8 +46,6 @@ date_format = "Jan 2006"
   date_start = "2018-05-01"
   date_end = "2018-07-12"
   description = """
-  Work
+  Worked on the backend of a scalable concurrent multi-threaded website using Scala and Akka
   """
-
-
 +++
