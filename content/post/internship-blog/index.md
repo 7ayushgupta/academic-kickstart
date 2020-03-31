@@ -32,18 +32,18 @@ projects: []
 ---
 
 Hey everyone! 
-Let me first introduce myself and try to give you an idea about my profile for the Internship seasons. My blog would be slightly different from others since I did not prepare for internships explicitly, but was dedicated to one field for a very long time.
+Let me first introduce myself and try to give you an idea about my profile for the Internship seasons. My blog would be slightly different from others since I did not prepare for internships explicitly, but was dedicated to one field for a very long time. 
 
-CPI: Slightly above 9.0
-Department: Mechanical Engineering
-Position of Responsibility: Software Subsystem Lead, AUV-IITK
-Academic preference for SPO internships
-2 robotics-related projects (apart from AUV) in my resume.
-Experience in SLAM, Vision algorithms, Object-oriented Programming, State Machines, and their mathematical backgrounds
-Backend Software Development Intern at New York Office, IITK (Summers 2018)
-No projects related to Mechanical Engineering
-Minimal exposure to competitive coding (did not try more than two-three contests)
-MSO201 done in Summers (flunked it badly), ESO207 done in 5th semester
+- CPI: Slightly above 9.0
+- Department: Mechanical Engineering
+- Position of Responsibility: Software Subsystem Lead, AUV-IITK
+- Academic preference for SPO internships
+- 2 robotics-related projects (apart from AUV) in my resume.
+- Experience in SLAM, Vision algorithms, Object-oriented Programming, State Machines, and their mathematical backgrounds
+- Backend Software Development Intern at New York Office, IITK (Summers 2018)
+- No projects related to Mechanical Engineering
+- Minimal exposure to competitive coding (did not try more than two-three contests)
+- MSO201 done in Summers (flunked it badly), ESO207 done in 5th semester
 
 ## Pre-intern season preparations:
 
